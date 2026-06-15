@@ -2,10 +2,11 @@
   "name": "My Planner",
   "short_name": "Planner",
   "description": "Daily and monthly task planner",
-  "start_url": "/",
+  "start_url": "https://deepaksuresh5.github.io/planner/",
+  "scope": "https://deepaksuresh5.github.io/planner/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#1a1a1a",
   "orientation": "portrait-primary",
   "icons": [
     {
